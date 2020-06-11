@@ -24,5 +24,5 @@ app.listen(PORT, () => {
   console.log(`App running on port ${PORT}!`);
 });
 
-mongoose.connect(MONGODB_URI);
+//mongoose.connect(MONGODB_URI);
 
